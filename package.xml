@@ -65,6 +65,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Test_Obj__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Account.Standard_Account_Duplicate_Rule</members>
         <members>Contact.Standard_Contact_Duplicate_Rule</members>
         <members>Lead.Standard_Lead_Duplicate_Rule</members>
