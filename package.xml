@@ -297,6 +297,7 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Actions</members>
         <members>Activities</members>
         <name>Settings</name>
     </types>
