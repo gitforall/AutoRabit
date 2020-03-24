@@ -299,6 +299,7 @@
     <types>
         <members>Actions</members>
         <members>Activities</members>
+        <members>Case</members>
         <name>Settings</name>
     </types>
     <types>
