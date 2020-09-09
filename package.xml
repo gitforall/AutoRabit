@@ -207,6 +207,10 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>Account.Hari_TestMAchingRule</members>
+        <name>MatchingRule</name>
+    </types>
+    <types>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
