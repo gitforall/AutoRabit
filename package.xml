@@ -3,6 +3,7 @@
     <version>48.0</version>
     <types>
         <members>Test</members>
+        <members>Test1</members>
         <name>ApexClass</name>
     </types>
     <types>
