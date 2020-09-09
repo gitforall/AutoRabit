@@ -181,6 +181,12 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <validationRules>
+        <fullName>while_insert_or_update</fullName>
+        <active>true</active>
+        <errorConditionFormula>Name  &lt;&gt; &apos;A&apos;</errorConditionFormula>
+        <errorMessage>Invalid data</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>

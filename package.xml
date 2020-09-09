@@ -303,6 +303,11 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Account.while_insert_or_update</members>
+        <members>Lead.Hari_Test_Val</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
